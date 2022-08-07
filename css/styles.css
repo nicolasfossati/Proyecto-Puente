@@ -4,3 +4,14 @@
   box-sizing: border-box;
 }
 
+.banner{
+  padding: 20px;
+  background-color: blue;
+}
+
+.contenido{
+  padding: 20px;
+}
+.noticias img{
+  size: 200px;
+}
